@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.formwrap{
+    position: absolute;
+    left: 400px;
+    top: 100px;
+    width: 400px;
+    height: 300px;
+    background-color: chocolate;
+    padding: 50px;
+}
+input{
+    width: 300px;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 0px 0px 20px 20px ;
+}
+.sub{
+    padding: 10px;
+    background-color: orangered;
+    color: white;
+    border: 1px solid white;
+}
+.wrapview{
+    width: auto;
+    height: auto;
+}
+table{
+    margin: 100px 0px 0px 250px;
+}
+
+table, td, tr, th{
+    border: 1px solid black;
+} 
+
+td{
+    padding: 10px;
+}
